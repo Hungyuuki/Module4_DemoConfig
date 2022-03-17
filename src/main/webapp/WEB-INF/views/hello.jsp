@@ -1,0 +1,17 @@
+<%--
+  Created by IntelliJ IDEA.
+  User: Admin
+  Date: 17/03/2022
+  Time: 11:13 AM
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
+<head>
+    <title>Title</title>
+</head>
+<body>
+<h1>I am Captor American</h1>
+<h3>xin chao ${name}</h3>
+</body>
+</html>
